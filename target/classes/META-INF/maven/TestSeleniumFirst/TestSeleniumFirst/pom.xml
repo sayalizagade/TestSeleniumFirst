@@ -49,6 +49,11 @@
 			<version>4.19.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>TestSeleniumFirstDemo</groupId>
+			<artifactId>TestSeleniumFirstDemo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
